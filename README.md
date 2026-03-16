@@ -32,9 +32,8 @@ Link: https://github.com/Sadhanavvs/LH-vs-RH-Analysis/tree/main
 
 
 # Project 4: E-commerce Superstore sales Analysis
+This project analyses retail sales data to understand revenue trends, product performance,and regional sales distribution. The analysis helps identify key business insights that can support data-driven decision making.
 
-
-
-https://github.com/Sadhanavvs/E-commerce-Superstore-sales-analysis/tree/main
+Link: https://github.com/Sadhanavvs/E-commerce-Superstore-sales-analysis/tree/main
 
 
