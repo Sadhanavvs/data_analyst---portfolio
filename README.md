@@ -12,6 +12,8 @@ Project 8:
 Project 1: Sporcket Central Profit Analysis:
 In this project, I analysed company sales data to identy profit trends, top proeducts and business performance. I used Tableau for data vizualization. Perfomed key analysis on revenue, profit, monthly sales trends, regional performance and profit margin analysis. Key insights of this project are peak sales dueing summer and ccertain regions showed higher profitablity.
 
+https://github.com/Sadhanavvs/Sporcket-Central-Profit-Analysis
+
 Project 2: Gen -Z Career Aspirations Survey Analysis:
 In this project, analysed survey data to understand the career perferences, priorities and expectations of Gen Z professionals. I used MS Excel and Power BI for analysis. Performed key analysis on what industries are most preferred by Gen Z, factors influencing career choices.Key insights from this project are majority of the Gen Z prefer technology and creative industries. Work life balance ranked higher than salary and skill development.
 
