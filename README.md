@@ -1,9 +1,9 @@
 Welcome to my Data Analysis Portfolio! This repository showcases my skills and experience in the field of data analysis. Here, you will find a collection of projects and analyses that demonstrate my ability to extract insights and make data-driven decisions.
 
 # Table of Contents
-* Project 1: Sporcket Central Profit Analysis
+* Project 1: Sprocket Central Profit Analysis
 * Project 2: Gen -Z Career Aspirations Survey Analysis
-* Project 3: Left vs Right Handed Staistical Analysis
+* Project 3: Left vs Right-Handed Statistical Analysis
 * Project 4: E-commerce Superstore sales Analysis
 * Project 5: Customer Churn Analysis
 
