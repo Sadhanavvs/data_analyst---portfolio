@@ -8,7 +8,7 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 * Project 5: Customer Churn Analysis
 
 # Project 1: Sporcket Central Profit Analysis:
-In this project, I analysed company sales data to identy profit trends, top products and business performance. I used Tableau for data vizualization. Perfomed key analysis on revenue, profit, monthly sales trends, regional performance and profit margin analysis. Key insights of this project are peak sales during summer and certain regions showed higher profitablity.
+In this project, I analysed company sales data to identify profit trends, top products and business performance. I used Tableau for data vizualization. Perfomed key analysis on revenue, profit, monthly sales trends, regional performance and profit margin analysis. Key insights of this project are peak sales during summer and certain regions showed higher profitablity.
 
 Link : https://github.com/Sadhanavvs/Sporcket-Central-Profit-Analysis
 
@@ -18,7 +18,7 @@ In this project, analysed survey data to understand the career perferences, prio
 Link : https://github.com/Sadhanavvs/Gen--Z-Career-Aspirations/tree/main
 
 # Project 3: Left vs Right Handed Staistical Analysis
-Exploring the difference between left-handed and right-handed indivuals using statistical data.Tools used are Python and Excel. Key analysis of this project are population distribution, age distribution, life expectancy, trends overtime. Major findings are right-handed individuals represent the majority of population, left-handed individuals show unique distribution patterns across age groups. Social and historical factors influence handedness statistics.
+Exploring the difference between left-handed and right-handed individuals using statistical data.Tools used are Python and Excel. Key analysis of this project are population distribution, age distribution, life expectancy, trends overtime. Major findings are right-handed individuals represent the majority of population, left-handed individuals show unique distribution patterns across age groups. Social and historical factors influence handedness statistics.
 
 Link: https://github.com/Sadhanavvs/LH-vs-RH-Analysis/tree/main
 
